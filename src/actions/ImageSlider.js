@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import '../styles/imageSlider.css'; // Import CSS file for styling
+import '../styles/imageSlider.css';
 
 const ImageSlider = ({ items, interval = 3000 }) => {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
@@ -22,7 +22,7 @@ const ImageSlider = ({ items, interval = 3000 }) => {
         key={index}
         className={index === currentImageIndex ? 'active' : 'inactive'}
         >
-          <img src={item.image} alt={'Slide ${index} '}/>
+          <img src={item.image} alt={`Slide ${index} `}/>
           <p> {item.text} </p>
 
         </div>
