@@ -17,7 +17,7 @@ i18n
           description: {
             part1: "Services",
             part2: "About Waluigi Shop",
-            part3: "Welcome to Waluigi's Repair Shop, where every fix comes with a dash of mischief and a splash of purple passion. From engine revs to pixel-perfect precision, we turn your mechanical woes into a winnzing kart race.",
+            part3: "Welcome to Waluigi's Repair Shop, where every fix comes with a dash of mischief and a splash of purple passion. From engine revs to pixel-perfect precision, we turn your mechanical woes into a winning kart race.",
             part4: "Contact Us"
           }
         }

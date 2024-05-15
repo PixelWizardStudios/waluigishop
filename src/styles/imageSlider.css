@@ -3,6 +3,8 @@
   width: 300px;
   height: 300px;
   overflow: hidden;
+  border-style:solid;
+
 }
 
 .image-slider div {
